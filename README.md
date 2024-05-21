@@ -1,2 +1,2 @@
 # Chat_bot
-Chat_bot using Gemini Ai
+ Basic Chat_bot Demo using Gemini Ai
